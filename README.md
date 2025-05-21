@@ -1,4 +1,5 @@
-# Awesome Technology Mind Maps
+# [Awesome Technology Mind Maps](https://mindmapai.app/mind-maps/technology) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Leverage project management and mind maps AI to streamline technology development, from ideation to implementation. Mind maps AI helps tech teams visualize workflows, manage innovation projects efficiently, and accelerate breakthroughs in a connected, fast-paced world.
 
 
